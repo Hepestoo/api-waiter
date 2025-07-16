@@ -80,7 +80,7 @@ sequelize.sync(syncOptions)
     console.log('✅ Base de datos sincronizada');
 
     // Crear roles predeterminados si no existen
-    const rolesIniciales = ['admin', 'mesero', 'cliente'];
+    const rolesIniciales = ['superadmin', 'admin', 'mesero', 'cliente'];
 
     for (const nombre of rolesIniciales) {
       const existe = await Rol.findOne({ where: { nombreRol: nombre } });

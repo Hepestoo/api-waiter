@@ -981,3 +981,4 @@ Stack: ForbiddenError: invalid csrf token
 2025-07-15 22:39:25 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
 2025-07-15 22:39:25 🔵 [INFO]: 🚀 MongoDB conectado correctamente
 2025-07-15 22:39:30 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 74.872 ms - 55[0m
+2025-07-15 23:11:06 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
