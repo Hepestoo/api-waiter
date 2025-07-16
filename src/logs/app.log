@@ -1,0 +1,983 @@
+2025-07-14 19:01:10 [ERROR]: (node:1472) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-14 19:01:10 [ERROR]: (node:1472) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-14 19:01:10 [INFO]: El servidor está escuchando en el puerto 4500 
+2025-07-14 19:01:11 [INFO]: Base de datos conectada 
+2025-07-14 19:01:11 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126 
+2025-07-14 19:01:11 [INFO]: 🚀 MongoDB conectado correctamente 
+2025-07-14 19:01:11 [INFO]: Conexión establecida con la base de datos 
+2025-07-14 19:01:15 [INFO]: Base de Datos sincronizadas 
+2025-07-14 19:01:27 [ERROR]: (node:16584) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created) 
+2025-07-14 19:01:27 [ERROR]: (node:16584) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version 
+2025-07-14 19:01:27 [INFO]: El servidor está escuchando en el puerto 4500 
+2025-07-14 19:01:27 [INFO]: Base de datos conectada 
+2025-07-14 19:01:27 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126 
+2025-07-14 19:01:27 [INFO]: 🚀 MongoDB conectado correctamente 
+2025-07-14 19:01:28 [INFO]: Conexión establecida con la base de datos 
+2025-07-14 19:01:31 [INFO]: Base de Datos sincronizadas 
+2025-07-14 19:09:00 [ERROR]: (node:5320) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-14 19:09:00 [ERROR]: (node:5320) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+2025-07-14 19:09:00 [INFO]: El servidor está escuchando en el puerto 4500
+2025-07-14 19:09:01 [INFO]: Base de datos conectada
+2025-07-14 19:09:01 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-14 19:09:01 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-14 19:09:01 [INFO]: Conexión establecida con la base de datos
+2025-07-14 19:09:05 [INFO]: Base de Datos sincronizadas
+2025-07-15 01:51:15 [ERROR]: (node:1704) [MONGODB DRIVER] Warning: useNewUrlParser is a deprecated option: useNewUrlParser has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+(Use `node --trace-warnings ...` to show where the warning was created)
+2025-07-15 01:51:15 [ERROR]: (node:1704) [MONGODB DRIVER] Warning: useUnifiedTopology is a deprecated option: useUnifiedTopology has no effect since Node.js Driver version 4.0.0 and will be removed in the next major version
+2025-07-15 01:51:15 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 01:51:15 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 01:51:24 [ERROR]: Error inesperado: connect ETIMEDOUT
+2025-07-15 01:51:25 [ERROR]: No se pudo conectar a la base de datos: connect ETIMEDOUT
+2025-07-15 01:51:25 [ERROR]: Error al sincronizar la Base de Datos: SequelizeConnectionError: connect ETIMEDOUT
+2025-07-15 01:52:08 [INFO]: ⚠️  Mongoose desconectado de MongoDB
+2025-07-15 01:52:10 [INFO]: Base de datos conectada
+2025-07-15 01:52:10 [INFO]: Conexión establecida con la base de datos
+2025-07-15 01:52:11 [INFO]: Base de Datos sincronizadas
+2025-07-15 01:52:11 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 01:52:11 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 02:00:37 [INFO]: ⚠️  Mongoose desconectado de MongoDB
+2025-07-15 02:02:35 [INFO]: Conexión establecida con la base de datos
+2025-07-15 02:02:36 [INFO]: Base de Datos sincronizadas
+2025-07-15 02:06:16 [INFO]: Conexión establecida con la base de datos
+2025-07-15 02:06:16 [INFO]: Base de Datos sincronizadas
+2025-07-15 02:06:53 [INFO]: Servidor escuchando en http://localhost:4500
+2025-07-15 02:06:53 [INFO]: Conexión establecida con la base de datos
+2025-07-15 02:06:53 [INFO]: Base de Datos sincronizadas
+2025-07-15 02:07:01 [WARN]: 404 Not Found: /
+2025-07-15 02:07:01 [INFO]: [0mGET / [33m404[0m 22.575 ms - 62[0m
+2025-07-15 02:07:02 [WARN]: 404 Not Found: /favicon.ico
+2025-07-15 02:07:02 [INFO]: [0mGET /favicon.ico [33m404[0m 15.679 ms - 62[0m
+2025-07-15 02:07:08 [ERROR]: Error: No default engine was specified and no extension was provided.
+Stack: Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\router\auth.Routes.js:20:9
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 02:07:08 [INFO]: [0mGET /login [31m500[0m 4.572 ms - 35[0m
+2025-07-15 02:19:13 [INFO]: 🚀 Server running on port 4500
+2025-07-15 02:19:13 [INFO]: 📡 Environment: development
+2025-07-15 02:19:13 [INFO]: 🔗 Health check: http://localhost:4500/api/health
+2025-07-15 02:19:13 [INFO]: 📋 API base: http://localhost:4500/
+2025-07-15 02:19:26 [INFO]: [0mGET /api/health [32m200[0m 44.309 ms - 108[0m
+2025-07-15 02:24:12 [INFO]: SIGINT received, shutting down gracefully
+2025-07-15 02:28:21 [INFO]: Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 02:28:21 [INFO]: Base de datos: digitalwaiter
+2025-07-15 02:28:21 [INFO]: Host: localhost:3306
+2025-07-15 02:28:21 [INFO]: Servidor iniciado en puerto 4500
+2025-07-15 02:28:21 [INFO]: Servidor corriendo en: http://localhost:4500
+2025-07-15 02:28:21 [INFO]: Entorno: development
+2025-07-15 02:29:46 [INFO]: Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 02:29:48 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 02:29:48 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 02:29:48 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 02:29:48 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 02:29:48 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 02:29:48 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 02:29:48 🔵 [INFO]: ✨ ¡Aplicación lista para usar!
+2025-07-15 02:30:59 🔵 [INFO]: 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 02:31:01 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 02:31:01 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 02:31:01 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 02:31:01 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 02:31:01 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 02:31:01 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 02:31:01 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 02:32:28 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 02:32:28 🔵 [INFO]: [0mGET / [32m200[0m 55.756 ms - 87[0m
+2025-07-15 02:36:55 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 02:41:34 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 02:41:34 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 02:41:34 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 02:41:34 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 02:41:34 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 02:41:34 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 02:41:34 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 02:41:55 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 02:42:04 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 02:42:04 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 02:42:04 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 02:42:04 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 02:42:04 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 02:42:04 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 02:42:04 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 02:51:04 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 02:51:06 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 02:51:06 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 02:51:06 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 02:51:06 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 02:51:06 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 02:51:06 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 02:51:06 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 02:52:05 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/users
+2025-07-15 02:52:05 🔵 [INFO]: [0mGET /api/users [33m404[0m 9.540 ms - 62[0m
+2025-07-15 02:52:19 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 02:52:19 🔵 [INFO]: [0mPOST /api/auth/login [31m500[0m 3.427 ms - 1682[0m
+2025-07-15 02:52:19 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:320:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 02:55:23 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:23 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.571 ms - 62[0m
+2025-07-15 02:55:25 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 02:55:28 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 02:55:28 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 02:55:28 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 02:55:28 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 02:55:28 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 02:55:28 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 02:55:28 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 02:55:30 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:30 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 5.604 ms - 62[0m
+2025-07-15 02:55:30 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:30 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.267 ms - 62[0m
+2025-07-15 02:55:30 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:30 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.624 ms - 62[0m
+2025-07-15 02:55:31 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:31 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.144 ms - 62[0m
+2025-07-15 02:55:31 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:31 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.376 ms - 62[0m
+2025-07-15 02:55:31 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:31 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.324 ms - 62[0m
+2025-07-15 02:55:31 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:31 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.180 ms - 62[0m
+2025-07-15 02:55:31 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:55:31 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.097 ms - 62[0m
+2025-07-15 02:57:11 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:57:11 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.898 ms - 62[0m
+2025-07-15 02:57:15 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api
+2025-07-15 02:57:15 🔵 [INFO]: [0mGET /api [33m404[0m 1.805 ms - 62[0m
+2025-07-15 02:57:15 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api
+2025-07-15 02:57:15 🔵 [INFO]: [0mGET /api [33m404[0m 1.652 ms - 62[0m
+2025-07-15 02:57:15 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api
+2025-07-15 02:57:15 🔵 [INFO]: [0mGET /api [33m404[0m 1.232 ms - 62[0m
+2025-07-15 02:57:18 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 02:57:18 🔵 [INFO]: [0mGET / [32m200[0m 1.553 ms - 87[0m
+2025-07-15 02:57:56 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:57:56 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.898 ms - 62[0m
+2025-07-15 02:57:57 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:57:57 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 0.993 ms - 62[0m
+2025-07-15 02:57:57 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:57:57 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 0.984 ms - 62[0m
+2025-07-15 02:57:57 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/csrf-token
+2025-07-15 02:57:57 🔵 [INFO]: [0mGET /api/csrf-token [33m404[0m 1.187 ms - 62[0m
+2025-07-15 02:59:22 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 02:59:24 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 02:59:24 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 02:59:24 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 02:59:24 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 02:59:24 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 02:59:24 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 02:59:24 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 02:59:30 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 02:59:30 🔵 [INFO]: [0mGET / [32m200[0m 5.809 ms - 87[0m
+2025-07-15 02:59:31 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 02:59:31 🔵 [INFO]: [0mGET / [32m200[0m 1.427 ms - 87[0m
+2025-07-15 02:59:31 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 02:59:31 🔵 [INFO]: [0mGET / [32m200[0m 1.159 ms - 87[0m
+2025-07-15 02:59:31 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 02:59:31 🔵 [INFO]: [0mGET / [32m200[0m 1.411 ms - 87[0m
+2025-07-15 02:59:31 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 02:59:31 🔵 [INFO]: [0mGET / [32m200[0m 1.244 ms - 87[0m
+2025-07-15 03:00:16 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 03:00:18 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 03:00:18 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 03:00:18 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 03:00:18 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 03:00:18 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 03:00:18 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 03:00:18 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 03:06:00 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 03:06:02 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 03:06:02 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 03:06:02 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 03:06:02 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 03:06:02 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 03:06:02 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 03:06:02 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 03:06:42 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 7.389 ms - 52[0m
+2025-07-15 03:07:00 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 1.784 ms - 52[0m
+2025-07-15 03:17:50 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 03:18:36 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 03:18:36 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 03:18:36 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 03:18:36 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 03:18:36 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 03:18:36 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 03:18:36 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 03:19:46 ❌ [ERROR]: Error: No default engine was specified and no extension was provided.
+Stack: Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\router\auth.Routes.js:5:9
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 03:19:46 🔵 [INFO]: 🌐 ❌ 404 Not Found: /favicon.ico
+2025-07-15 03:19:46 🔵 [INFO]: [0mGET /favicon.ico [33m404[0m 8.019 ms - 62[0m
+2025-07-15 03:22:10 ❌ [ERROR]: Error: No default engine was specified and no extension was provided.
+Stack: Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\router\auth.Routes.js:5:9
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 03:23:13 ❌ [ERROR]: Error: No default engine was specified and no extension was provided.
+Stack: Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\router\auth.Routes.js:5:9
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 03:23:14 ❌ [ERROR]: Error: No default engine was specified and no extension was provided.
+Stack: Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\router\auth.Routes.js:5:9
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 03:23:15 ❌ [ERROR]: Error: No default engine was specified and no extension was provided.
+Stack: Error: No default engine was specified and no extension was provided.
+    at new View (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\view.js:61:11)
+    at Function.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\response.js:1049:7)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\router\auth.Routes.js:5:9
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 03:27:09 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 4.333 ms - 52[0m
+2025-07-15 03:27:10 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 0.760 ms - 52[0m
+2025-07-15 03:27:10 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 0.925 ms - 52[0m
+2025-07-15 03:27:11 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 0.972 ms - 52[0m
+2025-07-15 03:27:11 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 0.867 ms - 52[0m
+2025-07-15 03:27:11 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 0.911 ms - 52[0m
+2025-07-15 03:27:11 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 0.902 ms - 52[0m
+2025-07-15 03:29:07 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 03:32:25 [INFO]: Servidor iniciado en el puerto 4500
+2025-07-15 03:32:32 [WARN]: 404 Not Found: /
+2025-07-15 03:32:32 [INFO]: [0mGET / [33m404[0m 11.000 ms - 62[0m
+2025-07-15 03:38:09 [INFO]: Servidor iniciado en el puerto 4500
+2025-07-15 03:38:09 [INFO]: ✅ Conexión a la base de datos 'digitalwaiter' establecida correctamente en localhost:3306
+2025-07-15 03:42:36 [INFO]: Servidor iniciado en el puerto 4500
+2025-07-15 03:42:36 [INFO]: ✅ Conexión a la base de datos 'digitalwaiter' establecida correctamente en localhost:3306
+2025-07-15 03:43:39 [INFO]: ✅ Conexión a la base de datos 'digitalwaiter' establecida correctamente en localhost:3306
+2025-07-15 03:46:35 [INFO]: ✅ Servidor corriendo en http://localhost:undefined
+2025-07-15 03:47:41 [INFO]: Servidor escuchando en puerto undefined
+2025-07-15 03:48:45 [INFO]: ✅ Servidor corriendo en http://localhost:4500
+2025-07-15 03:48:47 [WARN]: 404 Not Found: /
+2025-07-15 03:48:47 [INFO]: [0mGET / [33m404[0m 54.906 ms - 62[0m
+2025-07-15 03:51:23 [INFO]: ✅ Servidor corriendo en http://localhost:4500
+2025-07-15 03:55:20 [INFO]: ✅ Servidor corriendo en http://localhost:4500
+2025-07-15 03:55:43 [INFO]: ✅ Servidor corriendo en http://localhost:4500
+2025-07-15 03:55:43 [INFO]: ✅ Conexión a MySQL verificada: localhost:3306 → Base: digitalwaiter
+2025-07-15 03:57:43 [INFO]: ✅ Servidor corriendo en http://localhost:4500
+2025-07-15 03:57:43 [INFO]: ✅ Conexión a MySQL verificada: localhost:3306 → Base: digitalwaiter
+2025-07-15 03:57:43 [INFO]: ✅ Conexión a MySQL verificada: localhost:3306 → Base: digitalwaiter
+2025-07-15 03:58:13 [INFO]: ✅ Servidor corriendo en http://localhost:4500
+2025-07-15 03:58:13 [INFO]: ✅ Conexión a MySQL verificada: localhost:3306 → Base: digitalwaiter
+2025-07-15 03:58:13 [INFO]: ✅ Conexión a Mongo verificada: localhost:3306 → Base: digitalwaiter
+2025-07-15 03:58:54 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 03:58:54 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 03:58:54 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 03:58:54 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 03:58:54 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 03:58:54 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 03:58:54 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 04:00:07 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 04:00:07 🔵 [INFO]: [0mGET / [32m200[0m 17.026 ms - 87[0m
+2025-07-15 04:00:24 🔵 [INFO]: 🌐 ❌ 404 Not Found: /csrd-token
+2025-07-15 04:00:24 🔵 [INFO]: [0mGET /csrd-token [33m404[0m 2.899 ms - 62[0m
+2025-07-15 04:00:35 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 1.964 ms - 52[0m
+2025-07-15 04:02:18 🔵 [INFO]: 🌐 Health check solicitado
+2025-07-15 04:02:18 🔵 [INFO]: [0mGET /health [32m200[0m 4.631 ms - 145[0m
+2025-07-15 04:18:14 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 04:31:42 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 04:31:42 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 04:31:42 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 04:31:42 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 04:31:42 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 04:31:42 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 04:31:42 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 04:33:22 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:33:22 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 11.098 ms - 1682[0m
+2025-07-15 04:33:22 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:33:37 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:33:37 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 19.816 ms - 1682[0m
+2025-07-15 04:33:37 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:33:49 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:33:49 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 2.497 ms - 1682[0m
+2025-07-15 04:33:49 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:34:26 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 2.616 ms - 52[0m
+2025-07-15 04:34:41 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:34:41 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 3.042 ms - 1682[0m
+2025-07-15 04:34:41 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:34:41 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:34:41 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 1.934 ms - 1682[0m
+2025-07-15 04:34:41 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:38:15 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 04:38:17 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 04:38:17 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 04:38:17 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 04:38:17 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 04:38:17 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 04:38:17 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 04:38:17 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 04:38:23 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:38:23 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 19.254 ms - 1682[0m
+2025-07-15 04:38:23 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:40:05 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 3.272 ms - 52[0m
+2025-07-15 04:40:20 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:40:20 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 2.692 ms - 1682[0m
+2025-07-15 04:40:20 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:40:20 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:40:20 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 1.689 ms - 1682[0m
+2025-07-15 04:40:20 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:41:03 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/auth/register
+2025-07-15 04:41:03 ❌ [ERROR]: RangeError: Maximum call stack size exceeded
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:277:26)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+2025-07-15 04:41:03 🔵 [INFO]: [0mGET /api/auth/register [31m500[0m 43.838 ms - -[0m
+2025-07-15 04:41:08 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:41:08 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 2.942 ms - 1682[0m
+2025-07-15 04:41:08 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:43:28 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 2.431 ms - 52[0m
+2025-07-15 04:43:54 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:43:54 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 2.124 ms - 1682[0m
+2025-07-15 04:43:54 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:47:34 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 2.212 ms - 52[0m
+2025-07-15 04:47:51 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:47:51 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 4.929 ms - 1682[0m
+2025-07-15 04:47:51 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:50:31 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 7.041 ms - 52[0m
+2025-07-15 04:53:21 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 04:53:21 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 2.828 ms - 1682[0m
+2025-07-15 04:53:21 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:327:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 04:55:43 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 1.477 ms - 52[0m
+2025-07-15 04:57:43 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/auth/register
+2025-07-15 04:57:43 ❌ [ERROR]: RangeError: Maximum call stack size exceeded
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:277:26)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+    at res.status (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:282:20)
+2025-07-15 04:57:43 🔵 [INFO]: [0mPOST /api/auth/register [31m500[0m 22.547 ms - -[0m
+2025-07-15 05:04:58 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:05:00 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:05:00 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:05:00 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:05:00 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:05:00 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:05:00 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:05:00 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:05:14 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/auth/register
+2025-07-15 05:05:14 🔵 [INFO]: [0mPOST /api/auth/register [33m404[0m 35.014 ms - 62[0m
+2025-07-15 05:05:27 ❌ [ERROR]: Error: invalid csrf token
+Stack: ForbiddenError: invalid csrf token
+    at csrf (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\csurf\index.js:112:19)
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\connect-flash\lib\flash.js:21:5
+    at Layer.handle [as handle_request] (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+2025-07-15 05:05:27 🔵 [INFO]: [0mPOST /auth/register [31m500[0m 5.111 ms - 1682[0m
+2025-07-15 05:05:27 ❌ [ERROR]: TypeError: res.apiError is not a function
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\src\app.js:330:20
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:280:10)
+    at Layer.handle_error (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\stree\OneDrive\Documentos\proyectos_fasepractica\iotWaterEjemplo\node_modules\express\lib\router\index.js:346:12)
+2025-07-15 05:05:40 🔵 [INFO]: [0mPOST /auth/register [33m400[0m 3.553 ms - 69[0m
+2025-07-15 05:07:14 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:07:16 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:07:16 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:07:16 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:07:16 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:07:16 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:07:16 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:07:16 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:07:22 🔵 [INFO]: 🌐 ❌ 404 Not Found: /auth/register
+2025-07-15 05:07:22 🔵 [INFO]: [0mPOST /auth/register [33m404[0m 18.702 ms - 48[0m
+2025-07-15 05:07:37 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 2.984 ms - 69[0m
+2025-07-15 05:09:33 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.204 ms - 69[0m
+2025-07-15 05:13:01 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.706 ms - 69[0m
+2025-07-15 05:13:07 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:13:09 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:13:09 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:13:09 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:13:09 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:13:09 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:13:09 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:13:09 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:13:11 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 16.669 ms - 69[0m
+2025-07-15 05:14:52 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:14:54 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:14:54 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:14:54 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:14:54 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:14:54 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:14:54 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:14:54 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:14:59 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 15.704 ms - 69[0m
+2025-07-15 05:16:03 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:16:05 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:16:05 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:16:05 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:16:05 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:16:05 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:16:05 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:16:05 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:16:09 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 11.824 ms - 69[0m
+2025-07-15 05:20:39 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.676 ms - 69[0m
+2025-07-15 05:20:41 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:21:05 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:21:05 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:21:05 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:21:05 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:21:05 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:21:05 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:21:05 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:21:08 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 15.100 ms - 69[0m
+2025-07-15 05:31:24 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:32:29 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:32:29 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:32:29 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:32:29 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:32:29 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:32:29 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:32:29 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:32:29 🔵 [INFO]: Conexión establecida con la base de datos
+2025-07-15 05:32:30 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 05:32:30 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 05:32:30 🔵 [INFO]: Base de Datos sincronizadas
+2025-07-15 05:32:57 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 24.547 ms - 69[0m
+2025-07-15 05:39:00 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:41:12 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:41:12 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:41:12 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:41:12 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:41:12 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:41:12 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:41:12 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:41:12 🔵 [INFO]: Conexión establecida con la base de datos
+2025-07-15 05:41:13 🔵 [INFO]: Base de Datos sincronizadas
+2025-07-15 05:41:13 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 05:41:13 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 05:41:34 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 13.285 ms - 67[0m
+2025-07-15 05:43:11 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 2.435 ms - 67[0m
+2025-07-15 05:48:34 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:50:42 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:50:42 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:50:42 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:50:42 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:50:42 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:50:42 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:50:42 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:50:42 🔵 [INFO]: Conexión establecida con la base de datos
+2025-07-15 05:50:43 🔵 [INFO]: Base de Datos sincronizadas
+2025-07-15 05:50:43 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 05:50:43 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 05:51:03 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 25.490 ms - 54[0m
+2025-07-15 05:52:39 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 3.103 ms - 54[0m
+2025-07-15 05:52:41 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 05:53:09 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 05:53:09 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 05:53:09 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 05:53:09 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 05:53:09 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 05:53:09 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 05:53:09 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 05:53:09 🔵 [INFO]: Conexión establecida con la base de datos
+2025-07-15 05:53:09 🔵 [INFO]: Base de Datos sincronizadas
+2025-07-15 05:53:10 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 05:53:10 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 05:53:13 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 151.709 ms - 57[0m
+2025-07-15 05:57:28 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 107.911 ms - 52[0m
+2025-07-15 05:58:27 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 74.255 ms - 60[0m
+2025-07-15 05:58:34 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 7.155 ms - 60[0m
+2025-07-15 05:58:39 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 142.013 ms - 59[0m
+2025-07-15 05:59:21 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 5.784 ms - 60[0m
+2025-07-15 05:59:30 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 8.101 ms - 60[0m
+2025-07-15 05:59:37 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 104.040 ms - 61[0m
+2025-07-15 06:05:41 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 17.041 ms - 60[0m
+2025-07-15 06:05:45 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 101.490 ms - 63[0m
+2025-07-15 06:06:46 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 5.021 ms - 52[0m
+2025-07-15 06:08:45 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 6.148 ms - 60[0m
+2025-07-15 06:08:48 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 13.926 ms - 60[0m
+2025-07-15 06:08:51 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 96.032 ms - 65[0m
+2025-07-15 06:12:46 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 2.629 ms - 52[0m
+2025-07-15 06:14:28 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 14.888 ms - 60[0m
+2025-07-15 06:14:33 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 4.317 ms - 60[0m
+2025-07-15 06:14:37 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 110.442 ms - 67[0m
+2025-07-15 06:16:54 🔵 [INFO]: 🌐 Acceso a ruta principal
+2025-07-15 06:16:54 🔵 [INFO]: [0mGET / [32m200[0m 9.174 ms - 87[0m
+2025-07-15 06:17:10 🔵 [INFO]: 🌐 Health check solicitado
+2025-07-15 06:17:10 🔵 [INFO]: [0mGET /health [32m200[0m 8.370 ms - 146[0m
+2025-07-15 12:11:50 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 12:11:50 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 12:11:50 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 12:11:50 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 12:11:50 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 12:11:50 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 12:11:50 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 12:11:50 🔵 [INFO]: Conexión establecida con la base de datos
+2025-07-15 12:11:50 🔵 [INFO]: Base de Datos sincronizadas
+2025-07-15 12:11:51 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 12:11:51 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 12:12:47 🔵 [INFO]: 🌐 ❌ 404 Not Found: /auth/login
+2025-07-15 12:12:47 🔵 [INFO]: [0mPOST /auth/login [33m404[0m 20.200 ms - 48[0m
+2025-07-15 12:13:00 🔵 [INFO]: [0mPOST /api/auth/login [33m401[0m 10.481 ms - 33[0m
+2025-07-15 12:13:33 🔵 [INFO]: [0mPOST /api/auth/login [32m200[0m 77.582 ms - 67[0m
+2025-07-15 12:14:05 🔵 [INFO]: [0mPOST /api/auth//logout [32m200[0m 5.739 ms - 28[0m
+2025-07-15 20:06:15 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 20:06:15 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 20:06:15 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 20:06:15 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 20:06:15 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 20:06:15 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 20:06:15 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 20:06:15 🔵 [INFO]: Conexión establecida con la base de datos
+2025-07-15 20:06:15 🔵 [INFO]: Base de Datos sincronizadas
+2025-07-15 20:06:16 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 20:06:16 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 20:09:12 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 20:54:12 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 20:54:12 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 20:54:12 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 20:54:12 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 20:54:12 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 20:54:12 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 20:54:12 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 20:54:12 🔵 [INFO]: ✅ Conexión establecida con la base de datos
+2025-07-15 20:54:12 🔵 [INFO]: ✅ Base de datos sincronizada
+2025-07-15 20:54:12 🔵 [INFO]: 🔄 Rol creado: admin
+2025-07-15 20:54:12 🔵 [INFO]: 🔄 Rol creado: mesero
+2025-07-15 20:54:12 🔵 [INFO]: 🔄 Rol creado: cliente
+2025-07-15 20:54:13 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 20:54:13 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 21:13:22 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 21:13:22 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 21:13:22 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 21:13:22 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 21:13:22 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 21:13:22 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 21:13:22 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 21:13:22 🔵 [INFO]: ✅ Conexión establecida con la base de datos
+2025-07-15 21:13:22 🔵 [INFO]: ✅ Base de datos sincronizada
+2025-07-15 21:13:22 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 21:13:22 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 21:44:14 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 5.022 ms - 52[0m
+2025-07-15 22:06:00 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 16.165 ms - 67[0m
+2025-07-15 22:09:35 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.472 ms - 67[0m
+2025-07-15 22:09:45 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 22:09:47 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 22:09:47 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 22:09:47 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 22:09:47 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 22:09:47 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 22:09:47 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 22:09:47 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 22:09:47 🔵 [INFO]: ✅ Conexión establecida con la base de datos
+2025-07-15 22:09:47 🔵 [INFO]: ✅ Base de datos sincronizada
+2025-07-15 22:09:48 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 22:09:48 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 22:09:53 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 10.089 ms - 34[0m
+2025-07-15 22:09:57 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.286 ms - 34[0m
+2025-07-15 22:10:07 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 1.292 ms - 52[0m
+2025-07-15 22:10:37 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 0.796 ms - 34[0m
+2025-07-15 22:10:38 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.572 ms - 34[0m
+2025-07-15 22:10:41 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 0.859 ms - 34[0m
+2025-07-15 22:10:44 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/auth/register
+2025-07-15 22:10:44 🔵 [INFO]: [0mGET /api/auth/register [33m404[0m 3.411 ms - 48[0m
+2025-07-15 22:10:47 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 0.759 ms - 34[0m
+2025-07-15 22:12:40 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.471 ms - 34[0m
+2025-07-15 22:12:41 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.052 ms - 34[0m
+2025-07-15 22:12:43 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 0.802 ms - 34[0m
+2025-07-15 22:12:47 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 22:12:49 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 22:12:49 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 22:12:49 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 22:12:49 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 22:12:49 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 22:12:49 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 22:12:49 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 22:12:50 🔵 [INFO]: ✅ Conexión establecida con la base de datos
+2025-07-15 22:12:50 🔵 [INFO]: ✅ Base de datos sincronizada
+2025-07-15 22:12:50 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 22:12:50 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 22:12:53 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 74.455 ms - 61[0m
+2025-07-15 22:13:56 🔵 [INFO]: [0mGET /csrf-token [32m200[0m 1.261 ms - 52[0m
+2025-07-15 22:15:33 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/roles/assign%0A
+2025-07-15 22:15:33 🔵 [INFO]: [0mPOST /api/roles/assign%0A [33m404[0m 2.066 ms - 48[0m
+2025-07-15 22:15:42 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/roles/assign%0A
+2025-07-15 22:15:42 🔵 [INFO]: [0mPOST /api/roles/assign%0A [33m404[0m 1.367 ms - 48[0m
+2025-07-15 22:18:32 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/roles/assign%0A
+2025-07-15 22:18:32 🔵 [INFO]: [0mPOST /api/roles/assign%0A [33m404[0m 1.079 ms - 48[0m
+2025-07-15 22:18:33 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/roles/assign%0A
+2025-07-15 22:18:33 🔵 [INFO]: [0mPOST /api/roles/assign%0A [33m404[0m 1.143 ms - 48[0m
+2025-07-15 22:18:50 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/roles/assign%0A
+2025-07-15 22:18:50 🔵 [INFO]: [0mPOST /api/roles/assign%0A [33m404[0m 0.978 ms - 48[0m
+2025-07-15 22:18:57 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/roles/assign%0A
+2025-07-15 22:18:57 🔵 [INFO]: [0mGET /api/roles/assign%0A [33m404[0m 0.889 ms - 48[0m
+2025-07-15 22:19:00 🔵 [INFO]: 🌐 ❌ 404 Not Found: /api/roles/assign%0A
+2025-07-15 22:19:00 🔵 [INFO]: [0mPOST /api/roles/assign%0A [33m404[0m 1.442 ms - 48[0m
+2025-07-15 22:19:40 🔵 [INFO]: [0mPOST /api/roles/assign [32m200[0m 8.336 ms - 55[0m
+2025-07-15 22:20:42 🔵 [INFO]: [0mGET /api/roles/usuario/1 [32m200[0m 7.953 ms - 100[0m
+2025-07-15 22:33:22 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 67.394 ms - 55[0m
+2025-07-15 22:34:16 🔵 [INFO]: [0mGET /api/roles/usuario/2 [32m200[0m 2.662 ms - 27[0m
+2025-07-15 22:35:19 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 22:35:20 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 22:35:20 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 22:35:20 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 22:35:20 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 22:35:20 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 22:35:20 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 22:35:20 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 22:35:21 🔵 [INFO]: ✅ Conexión establecida con la base de datos
+2025-07-15 22:35:21 🔵 [INFO]: ✅ Base de datos sincronizada
+2025-07-15 22:35:21 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 22:35:21 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 22:35:26 🔵 [INFO]: [0mGET /api/roles/usuario/2 [32m200[0m 15.867 ms - 27[0m
+2025-07-15 22:35:27 🔵 [INFO]: [0mGET /api/roles/usuario/2 [32m200[0m 2.869 ms - 27[0m
+2025-07-15 22:35:42 🔵 [INFO]: [0mGET /api/roles/usuario/2 [32m200[0m 4.067 ms - 27[0m
+2025-07-15 22:35:47 🔵 [INFO]: [0mGET /api/roles/usuario/1 [32m200[0m 2.682 ms - 100[0m
+2025-07-15 22:35:51 🔵 [INFO]: [0mGET /api/roles/usuario/2 [32m200[0m 2.969 ms - 27[0m
+2025-07-15 22:36:14 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 0.923 ms - 54[0m
+2025-07-15 22:36:22 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.078 ms - 54[0m
+2025-07-15 22:36:23 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.145 ms - 54[0m
+2025-07-15 22:36:27 🔵 [INFO]: [0mPOST /api/auth/register [33m400[0m 1.252 ms - 54[0m
+2025-07-15 22:39:23 🔵 [INFO]: 🚀 🚀 🛑 Recibida señal SIGINT. Cerrando servidor...
+2025-07-15 22:39:25 🔵 [INFO]: 🗄️ Conexión a la base de datos MySQL establecida correctamente
+2025-07-15 22:39:25 🔵 [INFO]: 🗄️ Base de datos: digitalwaiter
+2025-07-15 22:39:25 🔵 [INFO]: 🗄️ Host: localhost:3306
+2025-07-15 22:39:25 🔵 [INFO]: 🚀 Servidor iniciado en puerto 4500
+2025-07-15 22:39:25 🔵 [INFO]: 🚀 Servidor corriendo en: http://localhost:4500
+2025-07-15 22:39:25 🔵 [INFO]: 🚀 Entorno: development
+2025-07-15 22:39:25 🔵 [INFO]: ✅ ✅ ✨ ¡Aplicación lista para usar!
+2025-07-15 22:39:25 🔵 [INFO]: ✅ Conexión establecida con la base de datos
+2025-07-15 22:39:25 🔵 [INFO]: ✅ Base de datos sincronizada
+2025-07-15 22:39:25 🔵 [INFO]: ✅ Mongoose conectado a MongoDB en: 31.97.42.126
+2025-07-15 22:39:25 🔵 [INFO]: 🚀 MongoDB conectado correctamente
+2025-07-15 22:39:30 🔵 [INFO]: [0mPOST /api/auth/register [32m201[0m 74.872 ms - 55[0m
